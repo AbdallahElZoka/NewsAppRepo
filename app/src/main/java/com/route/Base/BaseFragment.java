@@ -2,8 +2,8 @@ package com.route.Base;
 
 import android.app.ProgressDialog;
 import android.content.Context;
-import android.support.v4.app.Fragment;
-import android.support.v7.app.AlertDialog;
+import androidx.fragment.app.Fragment;
+import androidx.appcompat.app.AlertDialog;
 
 /**
  * Created by Mohamed Nabil Mohamed on 5/18/2019.
